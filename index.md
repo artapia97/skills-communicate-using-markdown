@@ -4,3 +4,5 @@
 
 
 ## In this commit I made some test using markdown headers
+
+![Image of a cocker spaniel](https://bowwowinsurance.com.au/wp-content/uploads/2018/10/cocker-spaniel-700x700.jpg)
